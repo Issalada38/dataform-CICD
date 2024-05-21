@@ -1,0 +1,7 @@
+{
+  "warehouse": "bigquery",
+  "defaultDatabase": "bcp-datahub",
+  "defaultLocation": "asia-southeast1",
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions"
+}
